@@ -10,15 +10,19 @@ import com.bumptech.glide.Glide
 import com.meisyell.bitaqwa.R
 import com.meisyell.bitaqwa.dashboard.model.InspirationModel
 
+//Adapter = berfungsi utuk menjdi penghubung data dan tampilan
 class InspirationListAdapter (private val listInspiration : ArrayList<InspirationModel>) :
     RecyclerView.Adapter<InspirationListAdapter.ListViewHolder>(){
 
+
    inner class ListViewHolder(itemView: View): RecyclerView.ViewHolder (itemView) {
+
+        //Variable untuk menemukan id image nya
         var imgPhoto : ImageView = itemView.findViewById(R.id.iv_item_photo)
 
     }
 
-    //untuk menentukan layout atau tempat yang akan di tampilkan
+    //untuk menentukan layout atau tempat data yang akan di tampilkan
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
        val view: View = LayoutInflater.from(parent.context).inflate(R.layout
            .item_row_inspiration, parent, false)

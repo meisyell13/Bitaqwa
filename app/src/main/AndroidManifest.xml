@@ -10,6 +10,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Bitaqwa">
         <activity
+            android:name=".menus.zakat.MenuZakatActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menus.videokajian.MenuVideoKajianActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menus.jadwalsholat.MenuJadwalSholatActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menus.dzikir.MenuDzikirActivity"
+            android:exported="true" />
+        <activity
+            android:name=".menus.doa.MenuDoaActivity"
+            android:exported="true" />
+        <activity
             android:name=".dashboard.DashboardActivity"
             android:exported="true">
             <intent-filter>

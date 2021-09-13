@@ -11,4 +11,10 @@
     <color name="colorPrimaryDark">#C75D3C</color>
     <color name="colorAccent">#EAF9FF</color>
     <color name="colorText">#474747</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorGreen">#7FFF00</color>
+    <color name="colorBlue">#0000FF</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorDarkGreen">#32CD32</color>
+    <color name="colorMediumPurple">#9370DB</color>
 </resources>

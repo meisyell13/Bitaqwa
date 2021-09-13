@@ -7,6 +7,11 @@
         <entry key="app/src/main/res/drawable/bg_rounded_text_view.xml" value="0.31018344857125174" />
         <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.24022801302931596" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15070921985815602" />
+        <entry key="app/src/main/res/layout/activity_menu_doa.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_menu_dzikir.xml" value="0.20425724637681159" />
+        <entry key="app/src/main/res/layout/activity_task1.xml" value="0.2368659420289855" />
+        <entry key="app/src/main/res/layout/activity_task2.xml" value="0.2269021739130435" />
+        <entry key="app/src/main/res/layout/activity_task3.xml" value="0.21965579710144928" />
         <entry key="app/src/main/res/layout/item_row_inspiration.xml" value="0.24003623188405798" />
       </map>
     </option>
